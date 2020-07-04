@@ -1,0 +1,27 @@
+#server:
+#  port: 8082
+#
+#  name: 大华
+#  age: 13
+#  #  name01: ${name}
+#
+#  #1.对象(map)键值对的集合
+#  person01:
+#    name: 大黄
+#    age: 12
+#
+#  #行内写法
+#  person02: #{name: 大黄,age: 12}
+#    name: ${name}
+#    age: ${age}
+#
+#  #2.数组:
+#  address01:
+#    - 北京
+#    - 上海
+#  #行内写法
+#  address02: [北京,上海]
+#
+#  #3.纯量
+#  msg1: 'hello \n world' #单引忽略转义字符
+#  msg2: "hello \n world" #双引识别转义字符
