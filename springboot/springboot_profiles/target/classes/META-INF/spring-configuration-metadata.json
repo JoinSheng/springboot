@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "person01",
+      "type": "com.itheima.Person",
+      "sourceType": "com.itheima.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person01.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.itheima.Person",
+      "defaultValue": 0
+    },
+    {
+      "name": "person01.name",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.Person"
+    }
+  ],
+  "hints": []
+}

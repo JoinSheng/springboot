@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot_helloworld/springboot_helloworld.iml" filepath="$PROJECT_DIR$/springboot_helloworld/springboot_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_init/springboot_init.iml" filepath="$PROJECT_DIR$/springboot_init/springboot_init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_junit/springboot_junit.iml" filepath="$PROJECT_DIR$/springboot_junit/springboot_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" filepath="$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_profiles/springboot_profiles.iml" filepath="$PROJECT_DIR$/springboot_profiles/springboot_profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_redis/springboot_redis.iml" filepath="$PROJECT_DIR$/springboot_redis/springboot_redis.iml" />
+    </modules>
+  </component>
+</project>
